@@ -1,0 +1,15 @@
+E:\native_csd\eindopdracht-native_text_based_adventure_game\bin\Debug\net8.0\eindopdracht-native_text_based_adventure_game.exe
+E:\native_csd\eindopdracht-native_text_based_adventure_game\bin\Debug\net8.0\eindopdracht-native_text_based_adventure_game.deps.json
+E:\native_csd\eindopdracht-native_text_based_adventure_game\bin\Debug\net8.0\eindopdracht-native_text_based_adventure_game.runtimeconfig.json
+E:\native_csd\eindopdracht-native_text_based_adventure_game\bin\Debug\net8.0\eindopdracht-native_text_based_adventure_game.dll
+E:\native_csd\eindopdracht-native_text_based_adventure_game\bin\Debug\net8.0\eindopdracht-native_text_based_adventure_game.pdb
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.GeneratedMSBuildEditorConfig.editorconfig
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.AssemblyInfoInputs.cache
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.AssemblyInfo.cs
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.csproj.CoreCompileInputs.cache
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.dll
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\refint\eindopdracht-native_text_based_adventure_game.dll
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.pdb
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.genruntimeconfig.cache
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\ref\eindopdracht-native_text_based_adventure_game.dll
+E:\native_csd\eindopdracht-native_text_based_adventure_game\obj\Debug\net8.0\eindopdracht-native_text_based_adventure_game.sourcelink.json
